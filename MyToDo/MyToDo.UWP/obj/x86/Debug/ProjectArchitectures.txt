@@ -1,0 +1,1 @@
+C:\Kal Project\MyToDo\MyToDo\MyToDo.UWP\MyToDo.UWP.csproj;x86

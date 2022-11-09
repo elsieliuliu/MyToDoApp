@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyToDo.Views.ToDo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Editor x:Name="ToDoText"
+                    Placeholder="Enter your todo"
+                    HeightRequest="100"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition>
+                    </ColumnDefinition>
+                </Grid.ColumnDefinitions>
+            </Grid>
+            <Button Text="Save"
+                    Clicked="OnSaveButton_Clicked" />
+            <Button Grid.Column="1"
+                    Text="Delete"
+                    Clicked="OnDeleteButton_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

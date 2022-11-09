@@ -1,0 +1,17 @@
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csproj.AssemblyReference.cache
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfoInputs.cache
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.AssemblyInfo.cs
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.csproj.CoreCompileInputs.cache
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\Views\ToDoPage.xaml.g.cs
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.dll
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\refint\MyToDo.dll
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\MyToDo.pdb
+C:\Kal Project\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.deps.json
+C:\Kal Project\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.dll
+C:\Kal Project\MyToDo\MyToDo\MyToDo\bin\Debug\netstandard2.0\MyToDo.pdb
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Kal Project\MyToDo\MyToDo\MyToDo\obj\Debug\netstandard2.0\ref\MyToDo.dll
