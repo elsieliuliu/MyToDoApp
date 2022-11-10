@@ -9,6 +9,5 @@ namespace MyToDo.Models
         public string Text { get; set; }
         public DateTime Date { get; set; }
         public string FileName { get; set; }
-
     }
 }
