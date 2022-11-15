@@ -20,21 +20,21 @@ namespace MyToDo.Views
         }
         protected override void OnAppearing()
         {
-            var todos = new List<ToDo>();
+            var todos = new List<ToDos>();
             var files = Directory.EnumerateFiles(Environment.GetFolderPath(
                 Environment.SpecialFolder.LocalApplicationData), "*.notes.txt");
             foreach(var file in files)
             {
-                var todo = new ToDo
+                var todo = new ToDos
                 {
-                    //Text = File.ReadAllText(file),
-                    //Date = File.GetCreationTime(file),
-                    //FileName = file
+                    Text = File.ReadAllText(file),
+                    Date = File.GetCreationTime(file),
+                    FileName = file
 
                 };
                 todos.Add(todo);
             }
-            //TodoListView.ItemsSource = todos.OrderByDescending(t => t.Date);
+            TodoListView.ItemsSource = todos.OrderByDescending(t => t.Date);
         }
         private void TodoListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {

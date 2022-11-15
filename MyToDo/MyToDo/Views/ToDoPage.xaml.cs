@@ -23,6 +23,7 @@ namespace MyToDo.Views
             var filename = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
                 $"{Path.GetRandomFileName()}.notes.txt");
             File.WriteAllText(filename,ToDoText.Text);
+            Task.Delay(1000).Wait();
             await Navigation.PopModalAsync(); // this line takes you back to the main page
  
         }
